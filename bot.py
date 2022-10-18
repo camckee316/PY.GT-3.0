@@ -8,7 +8,7 @@ import array
 
 load_dotenv()  # load all the variables from the env file
 # guild ids in which commands will appear useful for testing.
-bot = discord.Bot(debug_guilds=[1024149439029452931])
+bot = discord.Bot(debug_guilds=[...]) #your guildID
 
 
 @bot.event
