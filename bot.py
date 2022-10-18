@@ -43,4 +43,5 @@ for cog in cogs_list:
 #bot.load_extension('cogs.gold')
 #bot.load_extension('cogs.shiny')
 
-bot.run(os.getenv('token'))  # run the bot with the token
+#bot.run(os.getenv('token'))  # run the bot with the token
+bot.run('token')
