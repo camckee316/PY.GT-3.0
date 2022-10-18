@@ -1,0 +1,12 @@
+Python link to make bot:
+https://realpython.com/how-to-make-a-discord-bot-python/
+
+from devon:
+https://discordpy.readthedocs.io/en/stable/quickstart.html (discord.python)
+
+https://guide.pycord.dev/category/getting-started/ (py-cord) using
+
+https://www.geeksforgeeks.org/how-to-install-pip-on-windows/ (how to install pip) 
+
+Videos:
+https://www.youtube.com/watch?v=D0Ze2hxyvxA
